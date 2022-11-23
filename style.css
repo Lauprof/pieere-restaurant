@@ -1,0 +1,62 @@
+header a {
+
+
+	float: right;
+	position: relative;
+	top: 0;
+	padding: 18px 21px;
+}
+
+
+
+h1{
+
+text-align: right;
+font-size: 1.8em;
+color: lightblue;
+font-weight: bolder;
+text-shadow: 1px 1.3px 1.3px red;
+
+
+}
+h2{
+position: relative;
+left: 10%;
+font-weight: bold;
+color: green;
+
+
+
+
+
+}
+h2:hover{
+	transform: scale(1.2,1.3);
+	position: relative;
+	left: 50%;
+}
+#intro{
+	color: #ff3344;
+	font-variant: small-caps;
+
+
+}
+form{
+	border-style: groove;
+	border-color: indigo;
+	border-width: 5px;
+	padding: 12px;
+}
+label{
+font-weight: bolder;
+text-shadow: 1.2px 1.2px white;
+color: deeppink;
+}
+input[type="submit"]{
+	width: 30%;
+	background-color:teal ;
+}
+footer{
+	background-color: rgba(154, 10, 232, 0.3);
+	padding: 17px;
+}
