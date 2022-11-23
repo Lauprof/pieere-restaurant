@@ -60,3 +60,10 @@ footer{
 	background-color: rgba(154, 10, 232, 0.3);
 	padding: 17px;
 }
+@media (max-width:768px){
+	h2{
+		left:0;
+	}
+}
+	
+	
